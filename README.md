@@ -1,7 +1,7 @@
 # Car-price-prediction-ML-with-python
 In this project, vehicle price estimation application was made by using machine learning algorithms.
 
-First, we will download the libraries we will use.
+First, we will download the libraries we will
 
 `! pip install category_encoders -- !pip install xgboost`
 
